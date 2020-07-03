@@ -1,4 +1,3 @@
-// 彩色滚动变换字体 添加一个binft标签
 var binft = function(r) {
 	function t() {
 		return b[Math.floor(Math.random() * b.length)]

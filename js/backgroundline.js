@@ -1,4 +1,3 @@
-// 动态线条背景
 !
 function() {
 	function o(w, v, i) {

@@ -152,4 +152,3 @@ class Circle {
   
   const cursorSpecialEffects = new CursorSpecialEffects()
   cursorSpecialEffects.init()
-  

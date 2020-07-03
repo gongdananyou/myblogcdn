@@ -1,4 +1,3 @@
-// 网站运营时间
 var now = new Date();
 function createtime() {
 	var grt = new Date("01/24/2020 12:00:00");

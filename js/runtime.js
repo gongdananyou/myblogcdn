@@ -1,6 +1,6 @@
 var now = new Date();
 function createtime() {
-	var grt = new Date("01/24/2020 12:00:00");
+	var grt = new Date("07/03/2020 12:00:00");
 	now.setTime(now.getTime() + 250);
 	days = (now - grt) / 1000 / 60 / 60 / 24;
 	dnum = Math.floor(days);
